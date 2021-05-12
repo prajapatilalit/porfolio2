@@ -242,3 +242,88 @@ section:nth-child(2n + 1) {
   font-size: 15px;
   margin-top: -30px;
 }
+
+/*skill bar*/
+
+.skill-item {
+  width: 80%;
+  padding: 10px;
+}
+
+.skill-item-in {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.skill-item-in span {
+  width: 220px;
+  font-size: 20px;
+}
+
+.skill-bar {
+  width: 100%;
+  height: 20px;
+  background-color: gray;
+  border-radius: 20px;
+}
+
+.skill-bar-90 {
+  width: 90%;
+  height: 20px;
+  background-color: #ce1f6a;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+.skill-bar-80 {
+  width: 80%;
+  height: 20px;
+  background-color: #1b1a17;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+.skill-bar-70 {
+  width: 70%;
+  height: 20px;
+  background-color: #344fa1;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+.skill-bar-60 {
+  width: 60%;
+  height: 20px;
+  background-color: #4aa96c;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+.skill-bar-65 {
+  width: 65%;
+  height: 20px;
+  background-color: #511281;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+.skill-bar-25 {
+  width: 25%;
+  height: 20px;
+  background-color: #fdca40;
+  position: relative;
+  color: #ffff;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
