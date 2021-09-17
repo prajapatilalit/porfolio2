@@ -198,6 +198,8 @@ section:nth-child(2n + 1) {
 .project-item p {
   font-size: 15px;
   text-transform: capitalize;
+  text-align: justify;
+  padding: 0px 15px;
 }
 
 .project-item a {
